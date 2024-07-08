@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root_group>
+	<group display_name="All Contacts" />
+	<group display_name="Blocklist" />
+</root_group>
+<root_contact>
+	<contact display_name="Ажимов Марат" office_number="204" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" eyepea_contact_id="" />
+	<contact display_name="Ануфриенко Татьяна" office_number="211" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" eyepea_contact_id="" />
+	<contact display_name="Васина Надежда" office_number="212" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" eyepea_contact_id="" />
+	<contact display_name="Ефремова Оксана" office_number="210" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" eyepea_contact_id="" />
+	<contact display_name="Закиров Тимур" office_number="207" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" eyepea_contact_id="" />
+	<contact display_name="Карлова Ольга" office_number="206" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" eyepea_contact_id="" />
+	<contact display_name="Касумов Аяз" office_number="202" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" eyepea_contact_id="" />
+	<contact display_name="Клинкова Яна" office_number="213" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" eyepea_contact_id="" />
+	<contact display_name="Курочкин Валерий" office_number="201" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" eyepea_contact_id="" />
+	<contact display_name="Михалочкина Лариса" office_number="209" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" eyepea_contact_id="" />
+	<contact display_name="Пурусов Алексей" office_number="205" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" eyepea_contact_id="" />
+	<contact display_name="Хомяк Ирина" office_number="208" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" eyepea_contact_id="" />
+	<contact display_name="Цагадаев Эрдэм" office_number="203" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" eyepea_contact_id="" />
+	<contact display_name="Штопель Иван" office_number="200" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" eyepea_contact_id="" />
+</root_contact>
