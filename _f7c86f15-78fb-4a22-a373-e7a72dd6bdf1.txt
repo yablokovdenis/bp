@@ -1,2 +1,5 @@
-vless://f7c86f15-78fb-4a22-a373-e7a72dd6bdf1@vl-waw2.nowayvpn.com:443?type=tcp&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=N3R6ldiTMvXrXR-G2snl3h5st5PazZ5nsLhvQEAw0Gw&sni=www.googletagmanager.com&sid=042fd2a1f9e17b94#Nowayvpn- 🔥 Польша
+vless://f7c86f15-78fb-4a22-a373-e7a72dd6bdf1@vl-waw1.nowayvpn.com:443?type=tcp&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=N3R6ldiTMvXrXR-G2snl3h5st5PazZ5nsLhvQEAw0Gw&sni=www.googletagmanager.com&sid=042fd2a1f9e17b94#Nowayvpn- 🔥 Польша
+vless://f7c86f15-78fb-4a22-a373-e7a72dd6bdf1@vl-waw2.nowayvpn.com:443?type=tcp&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=N3R6ldiTMvXrXR-G2snl3h5st5PazZ5nsLhvQEAw0Gw&sni=www.googletagmanager.com&sid=042fd2a1f9e17b94#Nowayvpn- 🔥 Сервер2
+vless://f7c86f15-78fb-4a22-a373-e7a72dd6bdf1@vl-waw3.nowayvpn.com:443?type=tcp&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=N3R6ldiTMvXrXR-G2snl3h5st5PazZ5nsLhvQEAw0Gw&sni=www.googletagmanager.com&sid=042fd2a1f9e17b94#Nowayvpn- 🔥 Сервер3
+
 
