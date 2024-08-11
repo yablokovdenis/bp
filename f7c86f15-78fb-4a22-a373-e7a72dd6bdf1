@@ -20,7 +20,7 @@
                     {
                         "address": "vl-waw1.nowayvpn.com",
                         "port": 443,
-                        "title" : "AAAAAAAAAAAAAAAAA",
+                        "remarks" : "AAAAAAAAAAAAAAAAA",
                         "users": [
                             {
                                 "encryption": "none",
@@ -33,7 +33,7 @@
             },
             "streamSettings": {
                 "network": "tcp",
-                "title" : "BBBBBBBBBBBBBBBBBBBB",
+                "remarks" : "BBBBBBBBBBBBBBBBBBBB",
                 "realitySettings": {
                     "fingerprint": "chrome",
                     "publicKey": "N3R6ldiTMvXrXR-G2snl3h5st5PazZ5nsLhvQEAw0Gw",
