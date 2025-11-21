@@ -24,8 +24,8 @@
     <Unit Name="Коммерческий директор" Phone1="+79190519991" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Главный агроном" Phone1="+79129962758" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Начальник производства" Phone1="+79168883318" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Начальник АХО" Phone1="+79175379501" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Главный инженер" Phone1="+79161236968" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Начальник склада" Phone1="+79261671032" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Начальник АХО" Phone1="218" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Главный инженер" Phone1="216" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Начальник склада" Phone1="217" Phone2="" Phone3="" default_photo="Resource:"/>
   </Menu>
 </YealinkIPPhoneBook>
